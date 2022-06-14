@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "h:\\unreal project\\grandzombieauto\\intermediate\\build\\win64\\unrealeditor\\inc\\grandzombieauto\\grandzombieauto.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\unreal project\\grandzombieauto\\intermediate\\build\\win64\\grandzombieautoeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\unreal project\\grandzombieauto\\intermediate\\build\\win64\\unrealeditor\\development\\grandzombieauto\\definitions.grandzombieauto.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

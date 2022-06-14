@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "h:\\unreal project\\grandzombieauto\\intermediate\\build\\win64\\unrealeditor\\inc\\grandzombieauto\\grandzombieautogamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\unreal project\\grandzombieauto\\intermediate\\build\\win64\\grandzombieautoeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\unreal project\\grandzombieauto\\intermediate\\build\\win64\\unrealeditor\\development\\grandzombieauto\\definitions.grandzombieauto.h",
+            "h:\\unreal project\\grandzombieauto\\source\\grandzombieauto\\grandzombieautogamemode.h",
+            "s:\\development\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "s:\\development\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "s:\\development\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "s:\\development\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "h:\\unreal project\\grandzombieauto\\intermediate\\build\\win64\\unrealeditor\\inc\\grandzombieauto\\grandzombieautogamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
