@@ -64,5 +64,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Third Person Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=GrandZombieAuto
-/fo "H:\Unreal Project\GrandZombieAuto\Intermediate\Build\Win64\UnrealEditor\Development\GrandZombieAuto\Default.rc2.res"
+/fo "H:\Unreal Project\GZA1\Intermediate\Build\Win64\UnrealEditor\Development\GrandZombieAuto\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

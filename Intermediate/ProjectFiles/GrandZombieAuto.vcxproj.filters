@@ -11,6 +11,7 @@
     <None Include="..\..\Source\GrandZombieAutoEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -28,6 +29,12 @@
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
     </None>
     <Filter Include="Source\GrandZombieAuto">
       <UniqueIdentifier>{68A589D4-C23F-3FA0-B7C9-695D603F883D}</UniqueIdentifier>
@@ -51,6 +58,12 @@
       <Filter>Source\GrandZombieAuto</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\GrandZombieAuto\GrandZombieAutoGameMode.h">
+      <Filter>Source\GrandZombieAuto</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GrandZombieAuto\saDDummy.cpp">
+      <Filter>Source\GrandZombieAuto</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GrandZombieAuto\saDDummy.h">
       <Filter>Source\GrandZombieAuto</Filter>
     </ClInclude>
   </ItemGroup>
