@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GrandZombieAuto",
+			"Path": "H:\\Unreal Project\\GrandZombieAuto\\Source\\GrandZombieAuto.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GrandZombieAutoEditor",
+			"Path": "H:\\Unreal Project\\GrandZombieAuto\\Source\\GrandZombieAutoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
