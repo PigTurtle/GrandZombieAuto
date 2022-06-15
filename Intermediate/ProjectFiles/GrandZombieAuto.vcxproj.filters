@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\GrandZombieAuto.uproject" />
     <Filter Include="Source">
@@ -58,6 +58,12 @@
       <Filter>Source\GrandZombieAuto</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\GrandZombieAuto\GrandZombieAutoGameMode.h">
+      <Filter>Source\GrandZombieAuto</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GrandZombieAuto\MyActor.cpp">
+      <Filter>Source\GrandZombieAuto</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GrandZombieAuto\MyActor.h">
       <Filter>Source\GrandZombieAuto</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\GrandZombieAuto\saDDummy.cpp">

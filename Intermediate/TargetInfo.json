@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "GrandZombieAuto",
-			"Path": "H:\\Unreal Project\\GZA1\\Source\\GrandZombieAuto.Target.cs",
+			"Path": "C:\\Users\\PaulHyun\\Desktop\\PT`s\\GZA\\Source\\GrandZombieAuto.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "GrandZombieAutoEditor",
-			"Path": "H:\\Unreal Project\\GZA1\\Source\\GrandZombieAutoEditor.Target.cs",
+			"Path": "C:\\Users\\PaulHyun\\Desktop\\PT`s\\GZA\\Source\\GrandZombieAutoEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

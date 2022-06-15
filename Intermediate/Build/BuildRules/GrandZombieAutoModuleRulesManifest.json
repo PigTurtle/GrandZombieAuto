@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"H:\\Unreal Project\\GZA1\\Source\\GrandZombieAuto\\GrandZombieAuto.Build.cs",
-		"H:\\Unreal Project\\GZA1\\Source\\GrandZombieAuto.Target.cs",
-		"H:\\Unreal Project\\GZA1\\Source\\GrandZombieAutoEditor.Target.cs"
+		"C:\\Users\\PaulHyun\\Desktop\\PT`s\\GZA\\Source\\GrandZombieAuto\\GrandZombieAuto.Build.cs",
+		"C:\\Users\\PaulHyun\\Desktop\\PT`s\\GZA\\Source\\GrandZombieAuto.Target.cs",
+		"C:\\Users\\PaulHyun\\Desktop\\PT`s\\GZA\\Source\\GrandZombieAutoEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.2"
 }

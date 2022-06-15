@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define GRANDZOMBIEAUTO_GrandZombieAutoCharacter_generated_h
 
-#define FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_SPARSE_DATA
-#define FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_RPC_WRAPPERS
-#define FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_SPARSE_DATA
+#define FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_RPC_WRAPPERS
+#define FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAGrandZombieAutoCharacter(); \
 	friend struct Z_Construct_UClass_AGrandZombieAutoCharacter_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AGrandZombieAutoCharacter)
 
 
-#define FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_INCLASS \
+#define FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesAGrandZombieAutoCharacter(); \
 	friend struct Z_Construct_UClass_AGrandZombieAutoCharacter_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(AGrandZombieAutoCharacter)
 
 
-#define FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_STANDARD_CONSTRUCTORS \
+#define FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AGrandZombieAutoCharacter(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AGrandZombieAutoCharacter) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AGrandZombieAutoCharacter(AGrandZombieAutoCharacter&&); \
@@ -58,25 +58,25 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AGrandZombieAutoCharacter)
 
 
-#define FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_9_PROLOG
-#define FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_GENERATED_BODY_LEGACY \
+#define FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_9_PROLOG
+#define FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_SPARSE_DATA \
-	FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_RPC_WRAPPERS \
-	FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_INCLASS \
-	FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_STANDARD_CONSTRUCTORS \
+	FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_SPARSE_DATA \
+	FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_RPC_WRAPPERS \
+	FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_INCLASS \
+	FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_GENERATED_BODY \
+#define FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_SPARSE_DATA \
-	FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_INCLASS_NO_PURE_DECLS \
-	FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_ENHANCED_CONSTRUCTORS \
+	FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_SPARSE_DATA \
+	FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_INCLASS_NO_PURE_DECLS \
+	FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -84,7 +84,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> GRANDZOMBIEAUTO_API UClass* StaticClass<class AGrandZombieAutoCharacter>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_GZA1_Source_GrandZombieAuto_GrandZombieAutoCharacter_h
+#define CURRENT_FILE_ID FID_GZA_Source_GrandZombieAuto_GrandZombieAutoCharacter_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
